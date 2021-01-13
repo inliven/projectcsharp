@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/Users/thevegancoin/.dotnet/store/|arch|/|tfm|",
+      "/Users/thevegancoin/.nuget/packages"
+    ]
+  }
+}

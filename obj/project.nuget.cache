@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ox8+ZkC8GS/M+jSx3lgEWAYsm9sN/yVW/VbAvlnPHoLkArCiURcOpphiPjvMH19zoQDCCgacE8YxZLS/kCwy9g==",
+  "success": true,
+  "projectFilePath": "/Users/thevegancoin/Documents/MIUN C#/Projekt/paperrockscissors/Csharp.csproj",
+  "expectedPackageFiles": [
+    "/Users/thevegancoin/.nuget/packages/newtonsoft.json/12.0.3/newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
